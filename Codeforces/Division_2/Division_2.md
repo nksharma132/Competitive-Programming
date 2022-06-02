@@ -1,3 +1,3 @@
-# Division 1
+# Division 2
 
-Problems of division 1.
+Problems of division 2.
